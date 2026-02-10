@@ -8,13 +8,13 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? ❤️",
+    pageTitle: "Will You Be My Valentine? 💗",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '🤍', '❤️', '🤍', '❤️'],  // Heart emojis
-        bears: ['🌹', '🌹']                       // Cute bear emojis
+        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
+        bears: ['🧸', '🐻']                    // Cute bear emojis
     },
 
     // Questions and answers
@@ -49,7 +49,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "YAY! ❤️❤️❤️❤️❤️❤️❤️❤️❤️",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        message: "I LOVE YOU MY BABY GIRL!",
         emojis: "❤️🤍🌹❤️🤍🌹"  // These will bounce around
     },
 
